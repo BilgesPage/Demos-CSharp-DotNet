@@ -11,6 +11,7 @@ This repository contains demonstrations and applications of some of the .NET and
 * Value Type & Reference Type
 * Tuple and Value Tuple
 * Overriding Common Methods
+* Custom ApplicationException
 <br/><br/><br/><br/><br/>
 ----------
 ##### Sources
