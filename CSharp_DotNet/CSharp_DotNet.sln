@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App008_ValueTupleAndTuple",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App009_OverridingCommonMethods", "App009_OverridingCommonMethods\App009_OverridingCommonMethods.csproj", "{A3F9997A-C1D8-4721-B967-2565B26FFF85}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App010_CustomApplicationException", "App010_CustomApplicationException\App010_CustomApplicationException.csproj", "{85686028-ED7F-47FA-A5F7-F8BDEA741DEB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{A3F9997A-C1D8-4721-B967-2565B26FFF85}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3F9997A-C1D8-4721-B967-2565B26FFF85}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3F9997A-C1D8-4721-B967-2565B26FFF85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85686028-ED7F-47FA-A5F7-F8BDEA741DEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85686028-ED7F-47FA-A5F7-F8BDEA741DEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85686028-ED7F-47FA-A5F7-F8BDEA741DEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85686028-ED7F-47FA-A5F7-F8BDEA741DEB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
