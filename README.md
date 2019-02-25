@@ -5,6 +5,13 @@ This repository contains demonstrations and applications of some of the .NET and
 * System.Environment
 * System.Numerics
 * Pattern Matching With Switch
+* Named Parameters
+* Local Functions
+* System.Enum
+* Value Type & Reference Type
+* Tuple and Value Tuple
+* Overriding Common Methods
+* Custom ApplicationException
 <br/><br/><br/><br/><br/>
 ----------
 ##### Sources
