@@ -12,6 +12,9 @@ This repository contains demonstrations and applications of some of the .NET and
 * Tuple and Value Tuple
 * Overriding Common Methods
 * Custom ApplicationException
+* Implementation of IEnumerable Interface
+* Implementation of IClonable Interfaec
+* Implementation of IComparable Interface
 <br/><br/><br/><br/><br/>
 ----------
 ##### Sources
