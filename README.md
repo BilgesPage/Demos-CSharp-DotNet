@@ -15,6 +15,12 @@ This repository contains demonstrations and applications of some of the .NET and
 * Implementation of IEnumerable Interface
 * Implementation of IClonable Interfaec
 * Implementation of IComparable Interface
+* System.Collection.Generic
+* Delegate Method
+* Event
+* Operator Overloading
+* Extension Methods
+* LINQ
 <br/><br/><br/><br/><br/>
 ----------
 ##### Sources
