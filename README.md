@@ -21,6 +21,18 @@ This repository contains demonstrations and applications of some of the .NET and
 * Operator Overloading
 * Extension Methods
 * LINQ
+* System.GarbageCollector
+* System.Type
+* System.Reflection.Assembly
+* Late Binding & System.Activator
+* System.Attribute
+* Using Dydnamic Data In ComInterop
+* System.Diagnostics & Process Operations
+* System.AppDomain
+* Thread
+* DirectoryInfo and FileInfo
+* Serialization and XmlSerializer
+* DataProviderFactory and SQLConnection
 <br/><br/><br/><br/><br/>
 ----------
 ##### Sources
